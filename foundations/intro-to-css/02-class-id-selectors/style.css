@@ -1,0 +1,18 @@
+.justClass{
+   background-color:  pink;
+}
+
+.justClass.butCooler{
+   font-size: 24px;
+ }
+
+#imID_1{
+    color: blue;
+    font-size: 36px;
+}
+
+#imID_2{
+    background-color: rgb(55, 208, 35);
+    font-weight: bold;
+    font-size: 24px;
+}
